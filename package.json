@@ -51,7 +51,7 @@
   },
   "exports": {
     ".": {
-      "types": "./src/index.ts",
+      "types": "./src/js/index.ts",
       "require": "./dist/js/vue-splide.cjs.js",
       "import": "./dist/js/vue-splide.esm.js",
       "default": "./dist/js/vue-splide.esm.js"
